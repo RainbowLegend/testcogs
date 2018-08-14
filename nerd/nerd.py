@@ -29,7 +29,12 @@ class Nerd:
         await self.bot.say("Hello World!")
         
     @commands.command(pass_context=True)
+    @commands.has_any_role()
     async def commandTwo(self, ctx, nume: int):
+        if nume == 69:
+            await self.bot.say("lol gay")
+            elif nume == 54
+            await self.bot.say("dan likes dick lol")
         
         
 
