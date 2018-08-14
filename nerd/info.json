@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "SUDDENLY A NERD APPEARED",
+    "INSTALL_MSG" : "Admin cog updated/installed.",
+    "NAME" : "Nerd",
+    "SHORT" : "nerd cogs test",
+    "DESCRIPTION" : "testing out nerd's cog skill",
+    "TAGS" : ["nerd", "tcogs"],
+    "HIDDEN" : false
+}
