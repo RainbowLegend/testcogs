@@ -30,7 +30,7 @@ class Nerd:
         
     @commands.command(pass_context=True)
     @commands.has_any_role()
-    async def commandTwo(self, ctx):
+    async def commandTwo(self, ctx, nume: int):
         
         
 
