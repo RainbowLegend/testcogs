@@ -26,6 +26,7 @@ class Nerd:
         
     @commands.command()
     async def newCommand(self):
+        await self.bot.say("Hello World!")
         
 
 
