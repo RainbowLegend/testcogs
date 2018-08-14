@@ -61,5 +61,5 @@ class Nerd:
 
 
 def setup(bot):
-    n = Hosting(bot)
+    n = Nerd(bot)
     bot.add_cog(n)     
