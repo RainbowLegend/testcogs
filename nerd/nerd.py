@@ -23,6 +23,10 @@ class Nerd:
         db = dataIO.load_json("data/selftosroles/roles.json")
         self.bot = bot
         self.db = defaultdict(lambda: default.copy(), db)
+        
+    @commands.command()
+    async def newCommand(self):
+        
 
 
 
