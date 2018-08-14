@@ -34,6 +34,8 @@ class Nerd:
             await self.bot.say("lol gay")
         elif nume == 54:
             await self.bot.say("dan likes dick lol")
+        else:
+            await self.bot.say("bacon is gayer tho")
         
         
 
