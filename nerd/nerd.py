@@ -33,7 +33,7 @@ class Nerd:
     async def commandTwo(self, ctx, nume: int):
         if nume == 69:
             await self.bot.say("lol gay")
-        elif nume == 54
+        elif nume == 54:
             await self.bot.say("dan likes dick lol")
         
         
